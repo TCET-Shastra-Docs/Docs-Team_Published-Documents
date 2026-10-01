@@ -4,7 +4,7 @@ Final, formatted documents published by the docs team. The unformatted originals
 
 ## Tracks
 | Folder | Track | Day |
-|---|---|
+|---|---|---|
 | `system-design/` | System Design | monday |
 | `machine-learning/` | Machine Learning | Tuesday |
 | `dsa/` | DSA | Wednesday |
